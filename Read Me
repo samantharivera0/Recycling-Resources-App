@@ -1,7 +1,2 @@
-echo "# Recycling-Resources-App" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/samantharivera0/Recycling-Resources-App.git
-git push -u origin main
+# Recycling-Resources
+Recycle Resources is an application and friendly chatbot that informs the public how to properly dispose of potentially hazardous waste including batteries and old electronics. It was created in one weekend during AI Hacks, Southern California's first all-female high school hackathon.
